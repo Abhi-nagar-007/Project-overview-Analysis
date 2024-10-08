@@ -9,7 +9,7 @@ Key Highlights:
 
 2. Queries- Manipulating data tables with SQL queries
 
-3 Power BI- Creating dashboard to visualize the dataset
+3. Power BI- Creating dashboard to visualize the dataset
 
 
 
